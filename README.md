@@ -19,7 +19,7 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact&theme=buefy&hide_border=true" />
+![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 <br>
