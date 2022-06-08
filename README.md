@@ -23,7 +23,7 @@
 
 <br>
 
-### 🏆 Github Profile Trophy
+### 🏆 My Trophy:
 <a>
   <img width=600 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
