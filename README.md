@@ -3,7 +3,7 @@
 
 <a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/AOPVAMTmFfQAAAAC/mochizou-mochizou-ooji.gif' width='200"'> </a>
 
-### About me:
+<h1>🏆 About me</h1>
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning AI and Machine Learning for my own interest. 
 - 🤔 I'm intesested in both procedural languages(C, Bash, Python) and object oriented languages(C++, Java).
