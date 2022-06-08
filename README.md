@@ -25,7 +25,7 @@
 
 <a <h2>🏆 Github Profile Trophy</h2></a>
 <a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
 
 <br>
