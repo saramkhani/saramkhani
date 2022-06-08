@@ -19,10 +19,7 @@
 
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" " alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
+[![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 # My Github Status:
