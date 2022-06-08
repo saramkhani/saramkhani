@@ -1,4 +1,4 @@
-# Hi Bro i am Fantox. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
+# Hi Bro i am SaramX. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
 
 
 <a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/AOPVAMTmFfQAAAAC/mochizou-mochizou-ooji.gif' width='200"'> </a>
@@ -18,7 +18,7 @@
 My Trophies:
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saramkhani)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
