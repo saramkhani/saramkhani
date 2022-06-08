@@ -35,7 +35,7 @@
 <br>
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact)](https://github.com/saramkhani/github-readme-stats)<br>
-![My Profile Views](![Profile views](https://gpvc.arturio.dev/)
+![My Profile Views](![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
 <br>
 <br>
 <br>
