@@ -55,6 +55,6 @@ My Trophies:
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Ftx00) <br>
 
 
-#### If you have any queries or suggestions then you can contact me i will be happy to respond. <img src="https://c.tenor.com/XxJsakHJIhIAAAAS/quby-zolboo.gif" width="20px">
+#### If you have any queries or suggestions then you can contact me i will be happy to respond. <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="20px">
 #### Regards: SaramX
 <br>
