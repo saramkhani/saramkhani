@@ -22,10 +22,9 @@
 ![SaramX's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=radical)
 
 <br>
-
-<a <h2>🏆 Github Profile Trophy</h2></a>
+<h2>🏆 Github Profile Trophy</h2>
 <a>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
+  <img width=500 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
 
 <br>
