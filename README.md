@@ -1,7 +1,7 @@
 # Hi Bro i am Fantox. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
 
 
-<a href="https://t.me/Ftx00"><img align='centre' src='https://tenor.com/470q.gif' width='200"'> </a>
+<a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/AOPVAMTmFfQAAAAC/mochizou-mochizou-ooji.gif' width='200"'> </a>
 
 ### My about:
 - 🔭 I’m currently a student.
