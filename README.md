@@ -10,32 +10,27 @@
 - ⚡ My current ongoing projects are: Whatsapp Bot, Voice assistant and AI Chatbot.
 
 <br>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
+
 <br>
 
 ![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=radical)
 
 <br>
+
 ### 🏆 My Trophy:
 <a>
   <img width=600 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
+
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
-
-<br>
-![Github Badges](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=vision-friendly-dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact)](https://github.com/saramkhani/github-readme-stats)<br>
-![My Profile Views](![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
-<br>
-<br>
-<br>
-
 
 # My Repositories:
 
