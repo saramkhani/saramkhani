@@ -1,4 +1,4 @@
-# Hi Bro i am SaramX. Nice to meet ya!   <img src="https://c.tenor.com/3eDU879uzT4AAAAi/shy-blushing.gif" width="0.11111111px">
+# Hi Bro i am SaramX. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
 
 
 <a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/AOPVAMTmFfQAAAAC/mochizou-mochizou-ooji.gif' width='200"'> </a>
