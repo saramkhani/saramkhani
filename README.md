@@ -24,7 +24,7 @@ My Trophies:
 
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact)](https://github.com/saramkhani/github-readme-stats)<br>
-![My Profile Views](https://gpvc.arturio.dev/saramkhani)
+![My Profile Views](![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME]))
 <br>
 <br>
 <br>
