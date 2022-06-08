@@ -25,10 +25,14 @@
 
 <h2>🏆 Github Profile Trophy</h2>
 <a>
-  <img width=500 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
+
 <br>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+
+<br>
 ![Github Badges](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=vision-friendly-dark)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact)](https://github.com/saramkhani/github-readme-stats)<br>
 ![My Profile Views](![Profile views](https://gpvc.arturio.dev/)
