@@ -38,11 +38,13 @@
 
 ### 🎗️My Repositories:
 
--   [HTML-WEB-SITE](https://github.com/saramkhani/Full-HTML-Website)
+<a href="https://github.com/saramkhani/Full-HTML-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
 
 <br>
 
-### 📫 How to reach me:
+### 📫How to reach me:
 [![My WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923414495475)
 
 <br>
