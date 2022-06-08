@@ -1,7 +1,7 @@
 # Hi Bro i am SaramX. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
 
 
-<a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
+<a href="https://t.me/Ftx00"><img align='centre' src='[https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif](https://tenor.com/view/mochizou-mochizou-ooji-tamako-market-tamako-love-story-anime-gif-13576404)' width='200"'> </a>
 
 ### My about:
 - 🔭 I’m currently a student.
