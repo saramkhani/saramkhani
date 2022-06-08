@@ -1,7 +1,7 @@
-# Hi Bro i am SaramX. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
+# Hi Bro i am Fantox. Nice to meet ya!   <img src="https://c.tenor.com/y9nm4uVkjUIAAAAi/cute.gif" width="2px">
 
 
-<a href="https://t.me/Ftx00"><img align='centre' src='[https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif](https://tenor.com/view/mochizou-mochizou-ooji-tamako-market-tamako-love-story-anime-gif-13576404)' width='200"'> </a>
+<a href="https://t.me/Ftx00"><img align='centre' src='https://c.tenor.com/SpDpac3s-ccAAAAC/anime-boy.gif' width='200"'> </a>
 
 ### My about:
 - 🔭 I’m currently a student.
@@ -18,13 +18,13 @@
 My Trophies:
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saramkhani)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=FantoX001)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=vision-friendly-dark)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saramkhani&layout=compact)](https://github.com/saramkhani/github-readme-stats)<br>
-![My Profile Views](https://gpvc.arturio.dev/saramkhani)
+![Github Badges](https://github-readme-stats.vercel.app/api?username=FantoX001&show_icons=true&theme=vision-friendly-dark)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FantoX001&layout=compact)](https://github.com/FantoX001/github-readme-stats)<br>
+![My Profile Views](https://gpvc.arturio.dev/FantoX001)
 <br>
 <br>
 <br>
