@@ -19,7 +19,7 @@
 
 <br>
 
-(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saramkhani&show_icons=true&theme=radical)
 
 <br>
 <h2>🏆 Github Profile Trophy</h2>
