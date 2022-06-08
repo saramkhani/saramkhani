@@ -32,19 +32,7 @@ My Trophies:
 
 # My Repositories:
 
--   [Shikimori Bot](https://github.com/FantoX001/Shikimori)
-
--   [Zero Two WhatsApp Bot](https://github.com/FantoX001/Zero-Two)
-
--   [Zero Two Deploy/Hosting Guides](https://github.com/FantoX001/Zero-Two-Guides)
-
--   [Akeno WhatsApp Bot](https://github.com/FantoX001/Akeno-Whatsapp-Bot) 
-
--   [Akeno WhatsApp Bot [ V-2.0 ]](https://github.com/FantoX001/Akeno)
-
--   [Akeno Guides](https://github.com/FantoX001/Akeno-Guides)
-
--   [Password Generator](https://github.com/FantoX001/Password-Generator)
+-   [HTML-WEB-SITE](https://github.com/saramkhani/Full-HTML-Website)
 <br>
 <br>
 
