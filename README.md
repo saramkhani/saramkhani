@@ -19,7 +19,7 @@
 
 <br>
 
-![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical)
 
 
 <br>
