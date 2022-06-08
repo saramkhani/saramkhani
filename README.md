@@ -39,7 +39,7 @@
 ### 🎗️My Repositories:
 
 <a href="https://github.com/saramkhani/Full-HTML-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=saramkhani&repo=github-readme-stats&theme=buefy" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 
 <br>
