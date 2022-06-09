@@ -36,7 +36,7 @@
 
 <br>
 
-https://gpvc.arturio.dev/github-profile-views-counter
+![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
 
 <br>
 
