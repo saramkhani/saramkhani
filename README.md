@@ -19,6 +19,10 @@
 
 <br>
 
+![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
+
+<br>
+
 ### 📈My Stats:
 ![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
@@ -33,10 +37,6 @@
 
 ### 🈹Languages Used By SaramX:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
-
-<br>
-
-![Profile views](https://gpvc.arturio.dev/github-profile-views-counter)
 
 <br>
 
