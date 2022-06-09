@@ -23,15 +23,15 @@
 
 <br>
 
-### 📈My Stats:
-![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-<br>
-
 ### 🏆 My Trophy:
 <a>
   <img width=600 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"/>
 </a>
+
+<br>
+
+### 📈My Stats:
+![SaramX GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <br>
 
