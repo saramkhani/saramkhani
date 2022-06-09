@@ -36,6 +36,10 @@
 
 <br>
 
+https://gpvc.arturio.dev/github-profile-views-counter
+
+<br>
+
 ### 🎗️My Top Repositories:
 
 <a href="https://github.com/saramkhani/Full-HTML-Website">
